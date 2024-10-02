@@ -1,7 +1,8 @@
-.CivicSI(
-    background-color: black;
-    color: azure;
+.kpop_bts{
+    background-color: rgb(255, 255, 255);
+    color: black;
     display: flex;
     padding: 24px 0;
+}
+    
 
-)
